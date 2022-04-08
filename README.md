@@ -7,7 +7,7 @@ Also, one of my hobbies is programming (I love learning any kind of language and
 I’m currently learning the fundamentals of JavaScript and SQL and improvement my skills both in R and Python
 <h4><b>📫 How to reach me </b></h4>
 You can contact me through my email address:<br>
-<a href="arthurwork05@gmail.com">arthurwork05@gmail.com</a>
+<a href="mailto:arthurwork05@gmail.com">arthurwork05@gmail.com</a>
 
 <!---
 SirMacArthurPG/SirMacArthurPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
